@@ -33,7 +33,7 @@ This is a full-stack application that allows users to fetch news articles, gener
 ### 1. Clone the Repository
 
 ```bash
-git clone [<repo-url>](https://github.com/bielmenezesc/news-ai.git)
+git clone https://github.com/bielmenezesc/news-ai.git
 cd news-ai
 ```
 
