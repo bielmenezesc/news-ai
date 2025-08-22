@@ -33,8 +33,8 @@ This is a full-stack application that allows users to fetch news articles, gener
 ### 1. Clone the Repository
 
 ```bash
-git clone <repo-url>
-cd <repo-name>
+git clone [<repo-url>](https://github.com/bielmenezesc/news-ai.git)
+cd news-ai
 ```
 
 ### 2. Supabase Setup
